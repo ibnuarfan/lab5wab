@@ -18,4 +18,7 @@ KELAS : TI 19 B2
 
 Pertanyaan dan Tugas 
 1. Buat script untuk melakukan validasi pada isian form. 
-Jawab
+Jawab :
+![Capture10a](https://user-images.githubusercontent.com/81373389/115948643-87609d80-a4f9-11eb-843c-b5936db02800.JPG)
+![Capture10b](https://user-images.githubusercontent.com/81373389/115948651-8def1500-a4f9-11eb-9b21-742ea39482c3.JPG)
+
