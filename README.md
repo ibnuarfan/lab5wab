@@ -1,1 +1,3 @@
-# lab5wab
+Nama  : IBNU SOFFI ARFAN
+NIM   : 311910359
+KELAS : TI 19 B2
